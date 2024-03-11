@@ -1,4 +1,3 @@
-Irancell
 trojan://63779501-4c22-4a03-83d3-9f611b227e7b@162.159.32.35:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#4FreeIran-3122
 trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.214:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#4FreeIran-3121
 trojan://D5ZeVocLGQKADVJThE6VTA@104.21.79.244:2053?security=tls&sni=sidnyfollowerarzon.fandlaandpro.ir&type=tcp#4FreeIran-3469
