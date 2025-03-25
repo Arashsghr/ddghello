@@ -1,1 +1,1 @@
-k i r
+k to the i to the r
